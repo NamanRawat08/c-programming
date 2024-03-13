@@ -8,7 +8,7 @@ scanf("%d", &a);
 printf("enter b :");
 scanf("%d", &b);
 
-int sum= a+b;
-printf("sum is: %d", sum);
+int Product = a*b;
+printf("Product is: %d", Product);
 return 0;
 }
